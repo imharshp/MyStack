@@ -1,5 +1,8 @@
 
-
+/**
+* @author Harsh Patel
+* Generic Stack implementation in java
+**/
 public class Stack<T> {
 
 	private int size;
@@ -72,5 +75,3 @@ public class Stack<T> {
 			return;
 		}
 	}
-
-	
